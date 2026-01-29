@@ -67,12 +67,12 @@
   {
     "id": 14,
     "question": "Trong thiết kế có cấu trúc, mục tiêu “độ liên kết cao và độ ghép nối thấp” nghĩa là:\n*",
-    "correct_answer": "Module làm nhiều việc không liên quan và phụ thuộc lẫn nhau"
+    "correct_answer": "Module thực hiện một nhiệm vụ duy nhất, rõ ràng và độc lập"
   },
   {
     "id": 15,
     "question": "Phương pháp nào đặc trưng bởi các chu kỳ phát triển ngắn gọi là sprint?\n*",
-    "correct_answer": "Waterfall"
+    "correct_answer": "Agile (Scrum)"
   },
   {
     "id": 16,
@@ -147,12 +147,12 @@
   {
     "id": 30,
     "question": "Danh mục nào sau đây thuộc yêu cầu phi chức năng?\n*",
-    "correct_answer": "Người dùng đăng nhập bằng tài khoản/mật khẩu"
+    "correct_answer": "Hệ thống phải hoạt động 99,9% thời gian"
   },
   {
     "id": 31,
     "question": "Chiến lược chuyển đổi có rủi ro thấp nhất là:\n\n*",
-    "correct_answer": "Chạy song song"
+    "correct_answer": "Theo giai đoạn"
   },
   {
     "id": 32,
@@ -167,7 +167,7 @@
   {
     "id": 34,
     "question": "Công cụ phổ biến nhất để mô hình hóa quy trình trong phân tích có cấu trúc là:\n*",
-    "correct_answer": "Biểu đồ thực thể - quan hệ"
+    "correct_answer": "Biểu đồ luồng dữ liệu (DFD)"
   },
   {
     "id": 35,
@@ -367,7 +367,7 @@
   {
     "id": 74,
     "question": "Tỷ lệ vàng (1.618:1) thường được dùng trong giao diện để:\n*",
-    "correct_answer": "Chỉ kích thước chữ"
+    "correct_answer": "Tỷ lệ bố cục và lưới"
   },
   {
     "id": 75,
