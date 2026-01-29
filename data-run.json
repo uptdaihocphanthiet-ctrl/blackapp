@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "question": "Thiết kế HTTT",
+    "correct_answer": "Phát hiện lỗi yêu cầu muộn"
+  },
+  {
+    "id": 2,
+    "question": "Họ và Tên\n*",
+    "correct_answer": "Phát hiện lỗi yêu cầu muộn"
+  },
+  {
+    "id": 3,
+    "question": "MSSV\n*",
+    "correct_answer": "Phát hiện lỗi yêu cầu muộn"
+  },
+  {
+    "id": 4,
+    "question": "PHẦN TRẮC NGHIỆM\n212 of 236 points",
+    "correct_answer": "Phát hiện lỗi yêu cầu muộn"
+  },
+  {
+    "id": 5,
+    "question": "Nhược điểm lớn nhất của mô hình Waterfall là:\n*",
+    "correct_answer": "Phát hiện lỗi yêu cầu muộn"
+  },
+  {
+    "id": 6,
+    "question": "Cuộc họp đứng hàng ngày (daily stand-up) là nghi thức quan trọng trong:\n\n*",
+    "correct_answer": "Scrum (Agile)"
+  },
+  {
+    "id": 7,
+    "question": "Quy trình kinh doanh (business process) là ví dụ:\n*",
+    "correct_answer": "Tuyển dụng nhân viên mới"
+  },
+  {
+    "id": 8,
+    "question": "Rủi ro lớn nhất khi chỉ dùng phỏng vấn để thu thập yêu cầu là:\n*",
+    "correct_answer": "Không trực quan"
+  },
+  {
+    "id": 9,
+    "question": "Thông tin được coi là “liên quan” khi nó:\n*",
+    "correct_answer": "Giảm sự không chắc chắn trong ra quyết định"
+  },
+  {
+    "id": 10,
+    "question": "Kế hoạch khôi phục (rollback plan) đặc biệt cần thiết cho phương pháp chuyển đổi nào?\n\n*",
+    "correct_answer": "Big bang"
+  },
+  {
+    "id": 11,
+    "question": "Trong Agile, “Definition of Done” (DoD) đảm bảo:\n*",
+    "correct_answer": "Tính năng đã hoàn thiện, kiểm thử và có thể phát hành"
+  },
+  {
+    "id": 12,
+    "question": "Mô hình Kano phân loại yêu cầu thành:\n*",
+    "correct_answer": "Cơ bản, hiệu suất và gây thích thú (delighters)"
+  },
+  {
+    "id": 13,
+    "question": "Các chỉ số UX như “thời gian hoàn thành tác vụ” và “tỷ lệ lỗi” được đo trong:\n*",
+    "correct_answer": "Kiểm thử khả dụng"
+  },
+  {
+    "id": 14,
+    "question": "Trong thiết kế có cấu trúc, mục tiêu “độ liên kết cao và độ ghép nối thấp” nghĩa là:\n*",
+    "correct_answer": "Module làm nhiều việc không liên quan và phụ thuộc lẫn nhau"
+  },
+  {
+    "id": 15,
+    "question": "Phương pháp nào đặc trưng bởi các chu kỳ phát triển ngắn gọi là sprint?\n*",
+    "correct_answer": "Waterfall"
+  },
+  {
+    "id": 16,
+    "question": "Trong phân tích có cấu trúc, bước đầu tiên sau khi tạo biểu đồ ngữ cảnh thường là:\n*",
+    "correct_answer": "Vẽ DFD cấp 1 (phân rã quy trình duy nhất)"
+  },
+  {
+    "id": 17,
+    "question": "Yêu cầu “Hệ thống phải dễ sử dụng” là:\n*",
+    "correct_answer": "Chỉ chức năng"
+  },
+  {
+    "id": 18,
+    "question": "Nguyên nhân phổ biến nhất gây chậm trễ dự án triển khai HTTT là:\n*",
+    "correct_answer": "Trượt phạm vi (scope creep)"
+  },
+  {
+    "id": 19,
+    "question": "Hệ chuyên gia (expert system) được thiết kế để:\n*",
+    "correct_answer": "Mô phỏng khả năng ra quyết định của chuyên gia con người"
+  },
+  {
+    "id": 20,
+    "question": "Quan hệ “<<extend>>” trong use case dùng cho:\n*",
+    "correct_answer": "Hành vi tùy chọn hoặc có điều kiện"
+  },
+  {
+    "id": 21,
+    "question": "Wireframing là kỹ thuật để:\n*",
+    "correct_answer": "Phác thảo cấu trúc và bố cục màn hình cơ bản (không chi tiết)"
+  },
+  {
+    "id": 22,
+    "question": "Trong ký hiệu Yourdon/DeMarco, kho dữ liệu được biểu diễn bằng:\n*",
+    "correct_answer": "Hình chữ nhật mở (hai đường song song)"
+  },
+  {
+    "id": 23,
+    "question": "Sự phát triển của hệ thống thông tin có thể tóm tắt từ:\n*",
+    "correct_answer": "Xử lý dữ liệu → Báo cáo quản trị → Hỗ trợ chiến lược → Chuyển đổi số"
+  },
+  {
+    "id": 24,
+    "question": "Quá trình khám phá, phân tích, văn bản hóa và xác nhận những gì hệ thống phải làm được gọi là:\n*",
+    "correct_answer": "Kỹ thuật yêu cầu (Requirements engineering)"
+  },
+  {
+    "id": 25,
+    "question": "Nguyên tắc “GIGO” nghĩa là:\n*",
+    "correct_answer": "Global Information, Global Output"
+  },
+  {
+    "id": 26,
+    "question": "Chữ “A” trong POUR (nguyên tắc WCAG) chỉ:\n*",
+    "correct_answer": "Tất cả: Perceivable – Operable – Understandable – Robust"
+  },
+  {
+    "id": 27,
+    "question": "Nguyên tắc “phân cấp” (leveling/decomposition) trong DFD nghĩa là:\n*",
+    "correct_answer": "Phân rã quy trình phức tạp thành các biểu đồ cấp thấp hơn, chi tiết hơn"
+  },
+  {
+    "id": 28,
+    "question": "Material Design là khung giao diện do:\n*",
+    "correct_answer": "Google"
+  },
+  {
+    "id": 29,
+    "question": "Giai đoạn SDLC (Software Development Life Cycle – Vòng đời phát triển phần mềm) ngay sau giai đoạn Thiết kế là:\n\n*",
+    "correct_answer": "Triển khai / Xây dựng"
+  },
+  {
+    "id": 30,
+    "question": "Danh mục nào sau đây thuộc yêu cầu phi chức năng?\n*",
+    "correct_answer": "Người dùng đăng nhập bằng tài khoản/mật khẩu"
+  },
+  {
+    "id": 31,
+    "question": "Chiến lược chuyển đổi có rủi ro thấp nhất là:\n\n*",
+    "correct_answer": "Chạy song song"
+  },
+  {
+    "id": 32,
+    "question": "Định nghĩa chính xác nhất về Hệ thống thông tin là:\n*",
+    "correct_answer": "Tập hợp các thành phần liên kết với nhau để thu thập, lưu trữ, xử lý và phân phối thông tin nhằm hỗ trợ hoạt động, quản lý và ra quyết định"
+  },
+  {
+    "id": 33,
+    "question": "Tài liệu bàn giao cuối cùng của giai đoạn triển khai thường là:\n\n*",
+    "correct_answer": "Hệ thống hoạt động, đã kiểm thử và được chấp nhận, sẵn sàng đưa vào sản xuất"
+  },
+  {
+    "id": 34,
+    "question": "Công cụ phổ biến nhất để mô hình hóa quy trình trong phân tích có cấu trúc là:\n*",
+    "correct_answer": "Biểu đồ thực thể - quan hệ"
+  },
+  {
+    "id": 35,
+    "question": "Kiểm tra tài liệu yêu cầu tuân thủ tiêu chuẩn và nhất quán được gọi là:\n*",
+    "correct_answer": "Xác minh (Verification)"
+  },
+  {
+    "id": 36,
+    "question": "Tính nhất quán trong thiết kế giao diện chỉ:\n*",
+    "correct_answer": "Sự thống nhất về bố cục, thuật ngữ và hành vi trong toàn hệ thống"
+  },
+  {
+    "id": 37,
+    "question": "Vai trò chính của Hệ thống xử lý giao dịch (TPS) là:\n*",
+    "correct_answer": "Ghi nhận và xử lý các giao dịch hàng ngày"
+  },
+  {
+    "id": 38,
+    "question": "Lợi ích chính của hệ thống tích hợp (như ERP) là:\n*",
+    "correct_answer": "Loại bỏ kho thông tin riêng lẻ và phối hợp tốt hơn"
+  },
+  {
+    "id": 39,
+    "question": "Trong truy xuất yêu cầu (traceability), mỗi yêu cầu phải được truy xuất ngược về:\n*",
+    "correct_answer": "Mục tiêu kinh doanh hoặc nhu cầu bên liên quan"
+  },
+  {
+    "id": 40,
+    "question": "Số lượng quy trình tối đa được khuyến cáo trong một mức DFD là:\n*",
+    "correct_answer": "7 ± 2 (quy tắc Miller)"
+  },
+  {
+    "id": 41,
+    "question": "Sự khác biệt chính giữa DFD và BPMN là BPMN thể hiện rõ:\n*",
+    "correct_answer": "Luồng tuần tự, luồng tin, vai trò (pool/lane), và sự kiện"
+  },
+  {
+    "id": 42,
+    "question": "Định luật Miller (con số kỳ diệu 7±2) áp dụng cho giao diện bằng cách giới hạn:\n*",
+    "correct_answer": "Số mục trong menu hoặc khối thông tin"
+  },
+  {
+    "id": 43,
+    "question": "Hiện tượng trượt yêu cầu (requirements creep / scope creep) chỉ:\n*",
+    "correct_answer": "Thêm yêu cầu mới không kiểm soát sau khi đã chốt baseline"
+  },
+  {
+    "id": 44,
+    "question": "Mục tiêu chính của mô hình hóa quy trình là đạt được:\n*",
+    "correct_answer": "Hiểu rõ “hệ thống làm gì” trước khi “làm như thế nào”"
+  },
+  {
+    "id": 45,
+    "question": "Phân vùng theo sự kiện (Event Partitioning) trong phân tích có cấu trúc dựa trên:\n*",
+    "correct_answer": "Các sự kiện kích hoạt quy trình"
+  },
+  {
+    "id": 46,
+    "question": "Điều nào sau đây KHÔNG được phép trong DFD thuần túy?\n*",
+    "correct_answer": "Luồng điều khiển hoặc thông tin thời gian"
+  },
+  {
+    "id": 47,
+    "question": "“Hệ thống phải hỗ trợ 10.000 người dùng đồng thời” là:\n*",
+    "correct_answer": "Yêu cầu khả năng mở rộng (phi chức năng)"
+  },
+  {
+    "id": 48,
+    "question": "Mục tiêu chính của phân tích giao diện trong hệ thống thông tin là\n*",
+    "correct_answer": "Hiểu nhu cầu, công việc và ngữ cảnh người dùng để đảm bảo tương tác hiệu quả"
+  },
+  {
+    "id": 49,
+    "question": "Cách hiệu quả nhất để giảm kháng cự của người dùng trong triển khai là:\n\n*",
+    "correct_answer": "Thu hút người dùng sớm và liên tục + truyền thông tốt"
+  },
+  {
+    "id": 50,
+    "question": "Biểu đồ chuỗi quy trình sự kiện (EPC) phổ biến trong:\n*",
+    "correct_answer": "Môi trường SAP và ARIS"
+  },
+  {
+    "id": 51,
+    "question": "Quy trình chỉ có đầu ra mà không có đầu vào được gọi là:\n*",
+    "correct_answer": "Kỳ diệu (miracle)"
+  },
+  {
+    "id": 52,
+    "question": "Nguyên tắc “affordance” trong HCI nghĩa là:\n*",
+    "correct_answer": "Thiết kế gợi ý cách sử dụng (ví dụ: nút trông có thể nhấn)"
+  },
+  {
+    "id": 53,
+    "question": "Quy trình có đầu vào nhưng không có đầu ra được gọi là:\n*",
+    "correct_answer": "Lỗ đen (black hole)"
+  },
+  {
+    "id": 54,
+    "question": "Khoảng cách số (digital divide) đề cập đến:\n*",
+    "correct_answer": "Sự bất bình đẳng trong tiếp cận công nghệ thông tin và truyền thông"
+  },
+  {
+    "id": 55,
+    "question": "Kiểm thử tích hợp (integration testing) được thực hiện để xác minh:\n\n*",
+    "correct_answer": "Sự tương tác giữa các module đã tích hợp"
+  },
+  {
+    "id": 56,
+    "question": "“Fan-out” lớn hơn 7 trong biểu đồ cấu trúc thường chỉ ra:\n*",
+    "correct_answer": "Độ phức tạp quá cao – module cần được phân rã thêm"
+  },
+  {
+    "id": 57,
+    "question": "DevOps tập trung chủ yếu vào:\n*",
+    "correct_answer": "Sự hợp tác chặt chẽ giữa nhóm phát triển và nhóm vận hành"
+  },
+  {
+    "id": 58,
+    "question": "Trong mô hình hóa quy trình, “phân rã chức năng” (functional decomposition) nghĩa là:\n*",
+    "correct_answer": "Phân chia chức năng phức tạp thành các chức năng con đơn giản hơn"
+  },
+  {
+    "id": 59,
+    "question": "Kiểm thử hồi quy (regression testing) được thực hiện để đảm bảo:\n\n*",
+    "correct_answer": "Các thay đổi mới không làm hỏng chức năng cũ"
+  },
+  {
+    "id": 60,
+    "question": "Định luật Fitts trong thiết kế giao diện dự đoán:\n*",
+    "correct_answer": "Thời gian di chuyển tới mục tiêu dựa trên khoảng cách và kích thước"
+  },
+  {
+    "id": 61,
+    "question": "Kiểm thử hệ thống được thực hiện để kiểm tra:\n*",
+    "correct_answer": "Sự chấp nhận của người dùng"
+  },
+  {
+    "id": 62,
+    "question": "Hệ thống thông tin chính thức là:\n*",
+    "correct_answer": "Được thiết kế và văn bản hóa chính thức"
+  },
+  {
+    "id": 63,
+    "question": "Mô hình 8 bước thay đổi của Kotter dùng cho:\n*",
+    "correct_answer": "Quản lý thay đổi tổ chức trong triển khai HTTT"
+  },
+  {
+    "id": 64,
+    "question": "Quy trình “kỳ diệu” vi phạm nguyên tắc:\n*",
+    "correct_answer": "Bảo toàn đầu vào và đầu ra"
+  },
+  {
+    "id": 65,
+    "question": "Sai lầm thường gặp khi tạo DFD là:\n*",
+    "correct_answer": "Thể hiện luồng điều khiển thay vì luồng dữ liệu"
+  },
+  {
+    "id": 66,
+    "question": "Thiết kế hướng biến đổi (transform-oriented) phù hợp nhất khi hệ thống:\n*",
+    "correct_answer": "Có luồng dữ liệu rõ ràng từ đầu vào → biến đổi → đầu ra (ví dụ: tính lương, tính toán khoa học)"
+  },
+  {
+    "id": 67,
+    "question": "Đặc điểm nào sau đây KHÔNG thuộc yêu cầu tốt?\n*",
+    "correct_answer": "Dùng thuật ngữ kỹ thuật quá nhiều"
+  },
+  {
+    "id": 68,
+    "question": "Hệ thống Quản lý quan hệ khách hàng (CRM) chủ yếu hỗ trợ:\n*",
+    "correct_answer": "Quản lý tương tác và mối quan hệ với khách hàng"
+  },
+  {
+    "id": 69,
+    "question": "Bước đầu tiên trong thiết kế giao diện thường là\n*",
+    "correct_answer": "Thu thập yêu cầu và phân tích người dùng (personas, kịch bản)"
+  },
+  {
+    "id": 70,
+    "question": "Trong DFD, hình chữ nhật mở biểu diễn:\n*",
+    "correct_answer": "Kho dữ liệu"
+  },
+  {
+    "id": 71,
+    "question": "Biểu đồ ngữ cảnh (Context Diagram – DFD mức 0) thể hiện:\n*",
+    "correct_answer": "Toàn bộ hệ thống là một quy trình duy nhất với mọi thực thể bên ngoài và luồng dữ liệu chính"
+  },
+  {
+    "id": 72,
+    "question": "“Phân cấp” (leveling) trong DFD nghĩa là:\n*",
+    "correct_answer": "Phân rã một quy trình thành các biểu đồ cấp thấp hơn, chi tiết hơn"
+  },
+  {
+    "id": 73,
+    "question": "Doanh nghiệp số” (digital firm) được đặc trưng bởi:\n*",
+    "correct_answer": "Sử dụng công nghệ số đáng kể trong các quy trình kinh doanh cốt lõi và quan hệ đối tác"
+  },
+  {
+    "id": 74,
+    "question": "Tỷ lệ vàng (1.618:1) thường được dùng trong giao diện để:\n*",
+    "correct_answer": "Chỉ kích thước chữ"
+  },
+  {
+    "id": 75,
+    "question": "Thiết kế hướng giao dịch (transaction-oriented) phù hợp nhất khi:\n*",
+    "correct_answer": "Có nhiều loại giao dịch khác nhau cùng dùng chung dữ liệu (ví dụ: ATM, đặt vé)"
+  },
+  {
+    "id": 76,
+    "question": "Kiểm thử mô phỏng tải người dùng thực tế được gọi là:\n\n*",
+    "correct_answer": "Kiểm thử hiệu năng / tải"
+  },
+  {
+    "id": 77,
+    "question": "Mockup khác wireframe ở chỗ có thêm:\n*",
+    "correct_answer": "Yếu tố thiết kế trực quan: màu sắc, hình ảnh, kiểu chữ"
+  },
+  {
+    "id": 78,
+    "question": "“Người dùng phải khôi phục mật khẩu trong vòng dưới 1 phút” là:  \n*",
+    "correct_answer": "Yêu cầu khả năng sử dụng + hiệu năng"
+  },
+  {
+    "id": 79,
+    "question": "Hệ thống quản trị tri thức (KMS) hướng đến:\n*",
+    "correct_answer": "Thu thập và chia sẻ tri thức tổ chức"
+  },
+  {
+    "id": 80,
+    "question": "Giai đoạn “hypercare” (hỗ trợ tăng cường) là:\n*",
+    "correct_answer": "Ngay sau go-live với hỗ trợ tăng cường"
+  },
+  {
+    "id": 81,
+    "question": "Giai đoạn cuối cùng của SDLC – nơi hệ thống được giám sát và cải tiến – là:\n\n*",
+    "correct_answer": "Bảo trì"
+  },
+  {
+    "id": 82,
+    "question": "Nguyên tắc “bốn mắt” (four-eyes principle) trong triển khai nghĩa là:\n\n*",
+    "correct_answer": "Xem xét hoặc phê duyệt bởi người thứ hai để giảm lỗi"
+  },
+  {
+    "id": 83,
+    "question": "Thiết kế phẳng (flat design) nhấn mạnh:\n*",
+    "correct_answer": "Tối giản, đơn giản và yếu tố 2D"
+  },
+  {
+    "id": 84,
+    "question": "Tiêu chuẩn BPMN được duy trì bởi tổ chức nào?\n*",
+    "correct_answer": "OMG (Object Management Group)"
+  },
+  {
+    "id": 85,
+    "question": "Trong phương pháp Xoắn ốc (Spiral), mỗi vòng lặp bao gồm:\n\n*",
+    "correct_answer": "Phân tích rủi ro sau đó là nguyên mẫu"
+  },
+  {
+    "id": 86,
+    "question": "Mục đích chính của “danh sách kiểm tra go-live” là:\n\n*",
+    "correct_answer": "Đảm bảo mọi công việc quan trọng đã hoàn thành trước khi chuyển sang hệ thống mới"
+  },
+  {
+    "id": 87,
+    "question": "Người chịu trách nhiệm vận hành hàng ngày hệ thống thông tin thường là\n*",
+    "correct_answer": "Quản trị hệ thống / Hỗ trợ CNTT"
+  },
+  {
+    "id": 88,
+    "question": "Mục tiêu cuối cùng của hệ thống thông tin hiện đại trong chuyển đổi số là:\n*",
+    "correct_answer": "Tạo ra giá trị kinh doanh mới, mô hình kinh doanh mới và trải nghiệm khách hàng mới nhờ công nghệ"
+  },
+  {
+    "id": 89,
+    "question": "Quyết định cấp chiến lược thường là:\n*",
+    "correct_answer": "Dài hạn, phi cấu trúc và ít thực hiện"
+  },
+  {
+    "id": 90,
+    "question": "Quyết định có cấu trúc là:\n*",
+    "correct_answer": "Lặp lại và có quy trình rõ ràng (ví dụ: đặt hàng lại tồn kho)"
+  },
+  {
+    "id": 91,
+    "question": "Quyết định cấp tác nghiệp thường là:\n*",
+    "correct_answer": "Không thể dự đoán và phi cấu trúc"
+  },
+  {
+    "id": 92,
+    "question": "Quản lý thay đổi trong triển khai chủ yếu xử lý:\n*",
+    "correct_answer": "Quản lý sự kháng cự và đảm bảo chấp nhận hệ thống"
+  },
+  {
+    "id": 93,
+    "question": "EDI (Electronic Data Interchange) là ví dụ điển hình của:\n*",
+    "correct_answer": "Công cụ năng suất cá nhân"
+  },
+  {
+    "id": 94,
+    "question": "Kỹ thuật mà nhà phân tích quan sát người dùng thực hiện công việc thực tế tại nơi làm việc được gọi là:\n*",
+    "correct_answer": "Quan sát (Observation)"
+  },
+  {
+    "id": 95,
+    "question": "Kiểm thử A/B trong đánh giá giao diện so sánh:\n*",
+    "correct_answer": "Hai biến thể thiết kế để xem cái nào hiệu quả hơn"
+  },
+  {
+    "id": 96,
+    "question": "Trong biểu đồ cấu trúc, ký hiệu hình thoi biểu diễn:\n*",
+    "correct_answer": "Quyết định / lựa chọn (condition)"
+  },
+  {
+    "id": 97,
+    "question": "Tri thức ngầm (tacit knowledge) được mô tả tốt nhất là:\n*",
+    "correct_answer": "Kinh nghiệm cá nhân, khó hình thức hóa, phụ thuộc ngữ cảnh"
+  },
+  {
+    "id": 98,
+    "question": "Hệ thống nào cung cấp báo cáo định kỳ, có sẵn cho nhà quản trị?\n*",
+    "correct_answer": "TPS"
+  },
+  {
+    "id": 99,
+    "question": "Các nguyên tắc Gestalt trong thiết kế giao diện bao gồm:\n*",
+    "correct_answer": "Gần gũi, tương đồng, khép kín"
+  },
+  {
+    "id": 100,
+    "question": "Thuật ngữ “kho thông tin riêng lẻ” (information silo) chỉ:\n*",
+    "correct_answer": "Các hệ thống cô lập không chia sẻ dữ liệu"
+  },
+  {
+    "id": 101,
+    "question": "Hiệu ứng Hawthorne trong bối cảnh hệ thống thông tin cho thấy:\n*",
+    "correct_answer": "Con người thay đổi hành vi khi biết mình đang bị quan sát"
+  },
+  {
+    "id": 102,
+    "question": "Mô hình hóa quy trình hiện đại trong các hệ thống doanh nghiệp (SAP, Oracle) phổ biến nhất dùng:\n*",
+    "correct_answer": "BPMN 2.0"
+  },
+  {
+    "id": 103,
+    "question": "Điều nào sau đây KHÔNG được phép trong DFD đúng chuẩn?\n*",
+    "correct_answer": "Luồng dữ liệu từ thực thể bên ngoài tới kho dữ liệu"
+  },
+  {
+    "id": 104,
+    "question": "Trong DFD, một quy trình được biểu diễn bằng:\n*",
+    "correct_answer": "Hình tròn / hình chữ nhật bo tròn / bong bóng"
+  },
+  {
+    "id": 105,
+    "question": "“Fan-in” trong biểu đồ cấu trúc chỉ:\n*",
+    "correct_answer": "Nhiều module gọi cùng một module chung"
+  },
+  {
+    "id": 106,
+    "question": "“Luồng tin” (message flow) trong BPMN (giữa các pool) được biểu diễn bằng:\n*",
+    "correct_answer": "Mũi tên đứt nét có đầu mũi tên rỗng"
+  },
+  {
+    "id": 107,
+    "question": "Hệ thống liên tổ chức (Inter-organizational systems – IOS) kết nối:\n*",
+    "correct_answer": "Các doanh nghiệp khác nhau (ví dụ: nhà cung cấp – nhà bán lẻ)"
+  },
+  {
+    "id": 108,
+    "question": "Hoạt động chính trong giai đoạn “Xây dựng” của dự án hệ thống thông tin là:\n\n*",
+    "correct_answer": "Lập trình, cấu hình và tích hợp các thành phần hệ thống"
+  },
+  {
+    "id": 109,
+    "question": "Phản hồi (feedback) trong hệ thống thông tin là:\n*",
+    "correct_answer": "Thông tin đầu ra được trả về để đánh giá hoặc điều chỉnh đầu vào"
+  },
+  {
+    "id": 110,
+    "question": "Biểu đồ cấu trúc sơ cấp thường được tạo bằng cách ánh xạ:\n*",
+    "correct_answer": "Một module chính vào (afferent), một trung tâm biến đổi, một module ra (efferent)"
+  },
+  {
+    "id": 111,
+    "question": "Quy tắc “cân bằng” (balancing) trong DFD yêu cầu:\n*",
+    "correct_answer": "Đầu vào và đầu ra của quy trình cha phải khớp với biểu đồ con"
+  },
+  {
+    "id": 112,
+    "question": "Yêu cầu mô tả hệ thống PHẢI LÀM GÌ được gọi là:\n*",
+    "correct_answer": "Quy tắc nghiệp vụ"
+  },
+  {
+    "id": 113,
+    "question": "Thành phần nào sau đây KHÔNG thuộc 6 thành phần chính của hệ thống thông tin?\n*",
+    "correct_answer": "Điện năng"
+  },
+  {
+    "id": 114,
+    "question": "“Persona” trong phân tích giao diện là\n*",
+    "correct_answer": "Hồ sơ người dùng giả tưởng, điển hình dựa trên nghiên cứu"
+  },
+  {
+    "id": 115,
+    "question": "Đặc điểm nào KHÔNG phải của thông tin chất lượng cao?\n*",
+    "correct_answer": "Khối lượng lớn"
+  },
+  {
+    "id": 116,
+    "question": "Công cụ mô hình hóa quy trình được dùng phổ biến nhất trong phân tích có cấu trúc là:\n*",
+    "correct_answer": "Biểu đồ luồng dữ liệu (DFD)"
+  },
+  {
+    "id": 117,
+    "question": "Hệ thống hỗ trợ lãnh đạo (ESS) còn được gọi là:\n*",
+    "correct_answer": "Hệ thống thông tin lãnh đạo (EIS)"
+  },
+  {
+    "id": 118,
+    "question": "Xử lý lương và nhập đơn hàng là ví dụ điển hình của:\n*",
+    "correct_answer": "TPS"
+  },
+  {
+    "id": 119,
+    "question": "Mục đích chính của Hệ thống thông tin địa lý (GIS) là:\n*",
+    "correct_answer": "Lưu trữ, phân tích và trực quan hóa dữ liệu không gian"
+  },
+  {
+    "id": 120,
+    "question": "Trong hệ thống thông tin, “con người” bao gồm tất cả TRỪ:\n*",
+    "correct_answer": "Phần cứng máy tính"
+  },
+  {
+    "id": 121,
+    "question": "Đào tạo người đào tạo” (train-the-trainer) là phương pháp:\n\n*",
+    "correct_answer": "Đào tạo một số người dùng chính để họ đào tạo lại người khác"
+  },
+  {
+    "id": 122,
+    "question": "Thiết kế lấy người dùng làm trung tâm (User-Centered Design – UCD) nhấn mạnh\n*",
+    "correct_answer": "Thu hút người dùng tham gia suốt quá trình thiết kế để đáp ứng nhu cầu của họ"
+  },
+  {
+    "id": 123,
+    "question": "Trong ký hiệu use case, quan hệ “<<include>>” nghĩa là:\n*",
+    "correct_answer": "Hành vi bắt buộc được tái sử dụng bởi nhiều use case"
+  },
+  {
+    "id": 124,
+    "question": "Hệ thống hỗ trợ ra quyết định (DSS) được thiết kế cho:\n*",
+    "correct_answer": "Quyết định bán cấu trúc và phi cấu trúc"
+  },
+  {
+    "id": 125,
+    "question": "Chiến lược chuyển đổi dữ liệu phổ biến nhất khi cần giảm thiểu rủi ro là:\n*",
+    "correct_answer": "Chuyển đổi song song"
+  },
+  {
+    "id": 126,
+    "question": "SAP, Oracle E-Business Suite, Microsoft Dynamics là ví dụ của:\n*",
+    "correct_answer": "Hệ thống CRM"
+  },
+  {
+    "id": 127,
+    "question": "Skeuomorphism trong thiết kế giao diện nghĩa là:\n*",
+    "correct_answer": "Mô phỏng đồ vật thực tế (ví dụ: lịch có texture da)"
+  },
+  {
+    "id": 128,
+    "question": "Khả năng tiếp cận (accessibility) trong giao diện đảm bảo hệ thống sử dụng được bởi:\n*",
+    "correct_answer": "Người khuyết tật (tuân thủ WCAG)"
+  },
+  {
+    "id": 129,
+    "question": "Giai đoạn của SDLC bao gồm viết mã, kiểm thử và cài đặt được gọi là:\n*",
+    "correct_answer": "Triển khai / Xây dựng"
+  },
+  {
+    "id": 130,
+    "question": "Nguyên mẫu độ trung thực cao (high-fidelity) phù hợp nhất để:\n*",
+    "correct_answer": "Kiểm thử khả dụng giai đoạn cuối với tương tác thực tế"
+  },
+  {
+    "id": 131,
+    "question": "Theo dõi mắt (eye-tracking) là phương pháp kiểm thử khả dụng để:\n*",
+    "correct_answer": "Theo dõi vị trí người dùng nhìn trên màn hình"
+  },
+  {
+    "id": 132,
+    "question": "Rủi ro phổ biến trong giai đoạn xây dựng là:\n\n*",
+    "correct_answer": "Nợ kỹ thuật do viết mã nhanh và bẩn"
+  },
+  {
+    "id": 133,
+    "question": "Mục đích chính của triển khai thí điểm:\n*",
+    "correct_answer": "Giảm rủi ro bằng cách thử nghiệm trong môi trường giới hạn"
+  },
+  {
+    "id": 134,
+    "question": "Triển khai “thí điểm” (pilot) bao gồm:\n*",
+    "correct_answer": "Thử nghiệm hệ thống mới ở một phòng ban/địa điểm trước"
+  },
+  {
+    "id": 135,
+    "question": "Trong Agile, vai trò chịu trách nhiệm ưu tiên backlog sản phẩm là:\n*",
+    "correct_answer": "Product Owner"
+  },
+  {
+    "id": 136,
+    "question": "Kho dữ liệu (data warehouse) là:\n*",
+    "correct_answer": "Kho lưu trữ tập trung phục vụ phân tích và báo cáo"
+  },
+  {
+    "id": 137,
+    "question": "Triển khai theo giai đoạn (phased implementation) nghĩa là:\n\n*",
+    "correct_answer": "Triển khai từng module hoặc từng phòng ban"
+  },
+  {
+    "id": 138,
+    "question": "Internet vạn vật (IoT) trong bối cảnh hệ thống thông tin chỉ:\n*",
+    "correct_answer": "Các thiết bị vật lý kết nối thu thập và trao đổi dữ liệu"
+  },
+  {
+    "id": 139,
+    "question": "Hệ thống Quản lý chuỗi cung ứng (SCM) giúp doanh nghiệp quản lý:\n*",
+    "correct_answer": "Dòng hàng hóa từ nhà cung cấp đến khách hàng"
+  },
+  {
+    "id": 140,
+    "question": "Trong DevOps, “Infrastructure as Code” (IaC) nghĩa là:\n\n*",
+    "correct_answer": "Quản lý server và môi trường bằng mã (Terraform, Ansible…)"
+  },
+  {
+    "id": 141,
+    "question": "Bảo trì có thể là sửa lỗi, thích nghi, hoàn thiện hoặc:\n\n*",
+    "correct_answer": "Phòng ngừa"
+  },
+  {
+    "id": 142,
+    "question": "Quản lý cấu hình trong triển khai đảm bảo:\n\n*",
+    "correct_answer": "Theo dõi và kiểm soát mọi phiên bản mã nguồn, tài liệu và cài đặt"
+  },
+  {
+    "id": 143,
+    "question": "Đánh giá sau triển khai (Post-implementation review – PIR) được thực hiện để:\n*",
+    "correct_answer": "Đánh giá hệ thống có đạt mục tiêu không và rút ra bài học kinh nghiệm"
+  },
+  {
+    "id": 144,
+    "question": "Ví dụ về quyết định phi cấu trúc là:\n*",
+    "correct_answer": "Quyết định ra mắt dòng sản phẩm mới"
+  },
+  {
+    "id": 145,
+    "question": "Khái niệm “sản phẩm khả thi tối thiểu” (MVP) xuất phát từ:\n*",
+    "correct_answer": "Phương pháp Lean / Agile"
+  },
+  {
+    "id": 146,
+    "question": "Nguyên tắc “Phù hợp giữa hệ thống và thế giới thực” nghĩa là\n*",
+    "correct_answer": "Hệ thống dùng ngôn ngữ người dùng, khái niệm quen thuộc"
+  },
+  {
+    "id": 147,
+    "question": "Phát triển ứng dụng nhanh (RAD) nhấn mạnh:\n\n*",
+    "correct_answer": "Phát triển nhanh nhờ nguyên mẫu và sự tham gia của người dùng"
+  },
+  {
+    "id": 148,
+    "question": "Kỹ thuật phổ biến nhất để thu thập yêu cầu từ nhiều bên liên quan trong thời gian ngắn là:\n*",
+    "correct_answer": "Thiết kế ứng dụng chung (Joint Application Design – JAD)"
+  },
+  {
+    "id": 149,
+    "question": "Kiểm thử chấp nhận người dùng (UAT) do:\n*",
+    "correct_answer": "Người dùng cuối"
+  },
+  {
+    "id": 150,
+    "question": "Cách tiếp cận xã hội-kỹ thuật (socio-technical) nhấn mạnh:\n*",
+    "correct_answer": "Tối ưu hóa đồng thời hệ thống xã hội và kỹ thuật"
+  },
+  {
+    "id": 151,
+    "question": "Giai đoạn hỗ trợ chuyên sâu ngay sau go-live được gọi là:\n\n*",
+    "correct_answer": "Hypercare / Giai đoạn ổn định"
+  },
+  {
+    "id": 152,
+    "question": "Mục đích chính của mô hình hóa quy trình trong phân tích và thiết kế hệ thống là:\n*",
+    "correct_answer": "Mô tả cách dữ liệu được biến đổi khi di chuyển qua hệ thống"
+  },
+  {
+    "id": 153,
+    "question": "Hệ thống thông tin có thể tạo lợi thế cạnh tranh bằng cách:\n*",
+    "correct_answer": "Hỗ trợ chiến lược khác biệt hóa hoặc dẫn đầu về chi phí"
+  },
+  {
+    "id": 154,
+    "question": "Thu thập yêu cầu khó nhất khi\n*",
+    "correct_answer": "Người dùng không thể diễn đạt rõ nhu cầu"
+  },
+  {
+    "id": 155,
+    "question": "Trường hợp sử dụng (use case) mô tả:\n*",
+    "correct_answer": "B) Tương tác giữa tác nhân và hệ thống để đạt mục tiêu"
+  },
+  {
+    "id": 156,
+    "question": "Dữ liệu lớn (Big Data) được đặc trưng bởi 3V:\n*",
+    "correct_answer": "Volume, Velocity, Variety"
+  },
+  {
+    "id": 157,
+    "question": "Mô hình Chuỗi giá trị của Porter phân biệt giữa:\n*",
+    "correct_answer": "Hoạt động chính và hoạt động hỗ trợ"
+  },
+  {
+    "id": 158,
+    "question": "Các sự kiện thô chưa có ngữ cảnh được gọi là:\n*",
+    "correct_answer": "Dữ liệu"
+  },
+  {
+    "id": 159,
+    "question": "Kỹ thuật mô hình hóa nào phù hợp nhất để ghi nhận quy trình kinh doanh “hiện trạng” (as-is) trong giai đoạn phân tích yêu cầu?\n*",
+    "correct_answer": "BPMN hoặc DFD (logic hiện hành)"
+  },
+  {
+    "id": 160,
+    "question": "Trong biểu đồ cấu trúc, mũi tên cong có vòng tròn biểu diễn:\n*",
+    "correct_answer": "Cờ điều khiển (control flag)"
+  },
+  {
+    "id": 161,
+    "question": "Tái thiết kế quy trình kinh doanh (BPR) bao gồm:\n*",
+    "correct_answer": "Thiết kế lại triệt để các quy trình kinh doanh"
+  },
+  {
+    "id": 162,
+    "question": "Tương tác Người-Máy (Human-Computer Interaction – HCI) chủ yếu quan tâm đến\n*",
+    "correct_answer": "Thiết kế, đánh giá và triển khai các hệ thống tính toán tương tác phục vụ con người"
+  },
+  {
+    "id": 163,
+    "question": "Chuyển đổi dữ liệu trực tiếp phù hợp nhất khi:\n*",
+    "correct_answer": "Khối lượng dữ liệu nhỏ và định dạng tương thích"
+  },
+  {
+    "id": 164,
+    "question": "Lợi ích chính của hệ thống kiểm soát phiên bản (Git) trong giai đoạn xây dựng là:\n\n*",
+    "correct_answer": "Hợp tác, sao lưu và khả năng quay lại thay đổi"
+  },
+  {
+    "id": 165,
+    "question": "BPMN là viết tắt của:\n*",
+    "correct_answer": "Business Process Model and Notation"
+  },
+  {
+    "id": 166,
+    "question": "Phương pháp chuyển đổi an toàn nhất nhưng tốn kém nhất là:\n*",
+    "correct_answer": "Chạy song song (parallel running)"
+  },
+  {
+    "id": 167,
+    "question": "Hệ thống thông tin dựa trên đám mây là ví dụ của:\n*",
+    "correct_answer": "Mô hình cung cấp dịch vụ"
+  },
+  {
+    "id": 168,
+    "question": "“Luồng tuần tự” (sequence flow) trong BPMN được biểu diễn bằng:\n*",
+    "correct_answer": "Mũi tên liền có đầu mũi tên đặc"
+  },
+  {
+    "id": 169,
+    "question": "Chiến lược chuyển đổi dữ liệu dùng giao diện tạm để trích xuất dữ liệu từ hệ thống cũ được gọi là:\n\n*",
+    "correct_answer": "Chuyển đổi qua giao diện"
+  },
+  {
+    "id": 170,
+    "question": "Nguyên mẫu độ trung thực thấp (low-fidelity prototype) thường là:\n*",
+    "correct_answer": "Phác thảo giấy hoặc wireframe đơn giản"
+  },
+  {
+    "id": 171,
+    "question": "Kiểm thử đơn vị (unit testing) do:\n*",
+    "correct_answer": "Lập trình viên thực hiện trên từng module"
+  },
+  {
+    "id": 172,
+    "question": "Kim tự tháp DIKW biểu diễn sự tiến triển\n*",
+    "correct_answer": "Data → Information → Knowledge → Wisdom"
+  },
+  {
+    "id": 173,
+    "question": "Trong ký hiệu Gane-Sarson, các quy trình được biểu diễn bằng:\n*",
+    "correct_answer": "Hình chữ nhật bo tròn"
+  },
+  {
+    "id": 174,
+    "question": "Với hệ thống ATM, bạn sẽ chọn chiến lược thiết kế nào?\n*",
+    "correct_answer": "Hướng giao dịch"
+  },
+  {
+    "id": 175,
+    "question": "Mô hình DeLone & McLean về thành công của hệ thống thông tin gồm 6 yếu tố, trong đó có:\n*",
+    "correct_answer": "Chất lượng hệ thống, Chất lượng thông tin, Sử dụng, Sự hài lòng người dùng, Tác động cá nhân, Tác động tổ chức"
+  },
+  {
+    "id": 176,
+    "question": "Trong BPMN, hình chữ nhật bo tròn biểu diễn:\n*",
+    "correct_answer": "Hoạt động / tác vụ"
+  },
+  {
+    "id": 177,
+    "question": "Tác nhân chính (primary actor) trong use case thường là:\n*",
+    "correct_answer": "Người hoặc hệ thống bên ngoài khởi tạo use case"
+  },
+  {
+    "id": 178,
+    "question": "Sự khác biệt chính giữa OLTP và OLAP là:\n*",
+    "correct_answer": "OLTP = Xử lý giao dịch trực tuyến, OLAP = Xử lý phân tích trực tuyến"
+  },
+  {
+    "id": 179,
+    "question": "Kỹ thuật nào hiệu quả nhất để khám phá yêu cầu ẩn hoặc không được nói ra?\n*",
+    "correct_answer": "Quan sát và học việc"
+  },
+  {
+    "id": 180,
+    "question": "Phương pháp đào tạo trong triển khai bao gồm tất cả TRỪ:\n*",
+    "correct_answer": "Không đào tạo"
+  },
+  {
+    "id": 181,
+    "question": "Hệ thống tích hợp mọi chức năng doanh nghiệp (tài chính, nhân sự, sản xuất…) được gọi là:\n*",
+    "correct_answer": "ERP"
+  },
+  {
+    "id": 182,
+    "question": "Hệ thống Trí tuệ kinh doanh (Business Intelligence – BI) chủ yếu giúp:\n*",
+    "correct_answer": "Phân tích dữ liệu để hỗ trợ ra quyết định"
+  },
+  {
+    "id": 183,
+    "question": "Các vấn đề đạo đức trong hệ thống thông tin bao gồm tất cả TRỪ:\n*",
+    "correct_answer": "Tái chế phần cứng"
+  },
+  {
+    "id": 184,
+    "question": "Trong BPMN, hình chữ nhật bo tròn biểu diễn:\n*",
+    "correct_answer": "Hoạt động / tác vụ"
+  },
+  {
+    "id": 185,
+    "question": "Ưu điểm lớn nhất của mô hình Waterfall là:\n*",
+    "correct_answer": "Các mốc rõ ràng và dễ quản lý dự án"
+  },
+  {
+    "id": 186,
+    "question": "Hình thoi trong BPMN biểu diễn:\n*",
+    "correct_answer": "Cổng (điểm quyết định)"
+  },
+  {
+    "id": 187,
+    "question": "Tư duy hệ thống (systems thinking) nhìn tổ chức như:\n*",
+    "correct_answer": "Một tổng thể có mối liên hệ chặt chẽ"
+  },
+  {
+    "id": 188,
+    "question": "Nguyên mẫu dùng để làm rõ yêu cầu chưa rõ bằng cách cho người dùng xem mô hình hoạt động được gọi là:\n*",
+    "correct_answer": "Nguyên mẫu dùng một lần / thăm dò (Throwaway/exploratory prototype)"
+  },
+  {
+    "id": 189,
+    "question": "Tích hợp liên tục / Triển khai liên tục (CI/CD) là thực tiễn chính của:\n*",
+    "correct_answer": "DevOps"
+  },
+  {
+    "id": 190,
+    "question": "Yêu cầu mô tả hệ thống phải thực hiện TỐT NHƯ THẾ NÀO (hiệu năng, bảo mật, khả năng sử dụng…) là:\n*",
+    "correct_answer": "Phi chức năng (Non-functional)"
+  },
+  {
+    "id": 191,
+    "question": "Nghiên cứu khả thi trong giai đoạn yêu cầu thường bao gồm:\n*",
+    "correct_answer": "Khả thi kỹ thuật, kinh tế, vận hành và thời gian"
+  },
+  {
+    "id": 192,
+    "question": "Trong BPMN, vòng tròn viền mỏng biểu diễn:\n*",
+    "correct_answer": "Sự kiện trung gian"
+  },
+  {
+    "id": 193,
+    "question": "Trong DFD, hình tròn (hoặc bong bóng) biểu diễn:\n*",
+    "correct_answer": "Quy trình / biến đổi"
+  },
+  {
+    "id": 194,
+    "question": "Các công cụ thường dùng cho kiểm thử tự động bao gồm:\n\n*",
+    "correct_answer": "Selenium, JUnit, Postman"
+  },
+  {
+    "id": 195,
+    "question": "Cách chuyển đổi “big bang” nghĩa là:\n*",
+    "correct_answer": "Chuyển toàn bộ từ hệ thống cũ sang hệ thống mới cùng lúc"
+  },
+  {
+    "id": 196,
+    "question": "Nghịch lý năng suất” (productivity paradox) đề cập đến:\n*",
+    "correct_answer": "Quan sát rằng chi tiêu CNTT đôi khi không dẫn đến tăng năng suất như kỳ vọng"
+  },
+  {
+    "id": 197,
+    "question": "Biểu đồ cấu trúc (structure chart) trong thiết kế có cấu trúc chủ yếu được suy ra từ:\n*",
+    "correct_answer": "Biểu đồ luồng dữ liệu (DFD)"
+  },
+  {
+    "id": 198,
+    "question": "Nguyên mẫu ngang (horizontal prototype) thể hiện:\n*",
+    "correct_answer": "Chức năng rộng của nhiều tính năng (thường chỉ giao diện)"
+  },
+  {
+    "id": 199,
+    "question": "Các bước phân tích biến đổi là: Xác định luồng vào & ra Vẽ DFD cấp 1 Xác định trung tâm biến đổi Phân rã thành các module cấp cao Thứ tự đúng là:\n*",
+    "correct_answer": "2→1→3→4"
+  },
+  {
+    "id": 200,
+    "question": "BPMN (Business Process Model and Notation) chủ yếu dùng để:\n*",
+    "correct_answer": "Mô hình hóa quy trình kinh doanh và luồng công việc"
+  },
+  {
+    "id": 201,
+    "question": "Trong phân tích giao dịch, quy trình quyết định hành động nào sẽ thực hiện dựa trên loại giao dịch được gọi là:\n*",
+    "correct_answer": "Trung tâm giao dịch / quy trình điều phối"
+  },
+  {
+    "id": 202,
+    "question": "Kỹ thuật mô hình hóa nào phù hợp nhất để thể hiện luồng công việc kinh doanh có vai trò và trao đổi tin rõ ràng?\n*",
+    "correct_answer": "Biểu đồ cấu trúc"
+  },
+  {
+    "id": 203,
+    "question": "WCAG là viết tắt của:\n*",
+    "correct_answer": "Web Content Accessibility Guidelines"
+  },
+  {
+    "id": 204,
+    "question": "Quy tắc “cân bằng” (balancing) trong DFD yêu cầu:\n*",
+    "correct_answer": "Đầu vào và đầu ra của quy trình cha phải khớp với biểu đồ con"
+  },
+  {
+    "id": 205,
+    "question": "Salesforce.com và Microsoft Dynamics 365 là ví dụ của:\n*",
+    "correct_answer": "CRM"
+  },
+  {
+    "id": 206,
+    "question": "Biểu đồ mức 0 (context diagram) thể hiện:\n*",
+    "correct_answer": "Toàn bộ hệ thống là một quy trình duy nhất với tất cả thực thể bên ngoài và luồng dữ liệu chính"
+  },
+  {
+    "id": 207,
+    "question": "Tri thức hiển (explicit knowledge) là\n*",
+    "correct_answer": "Dễ hệ thống hóa và truyền đạt (ví dụ: tài liệu, báo cáo)"
+  },
+  {
+    "id": 208,
+    "question": "Phương pháp SDLC truyền thống, tuần tự được gọi là:\n*",
+    "correct_answer": "Thác nước (Waterfall)"
+  },
+  {
+    "id": 209,
+    "question": "Tài liệu hướng dẫn người dùng cách sử dụng hệ thống mới được gọi là:\n*",
+    "correct_answer": "Hướng dẫn sử dụng / tài liệu đào tạo"
+  },
+  {
+    "id": 210,
+    "question": "Quy trình chỉ có đầu vào mà không có đầu ra được gọi là:\n*",
+    "correct_answer": "Lỗ đen (black hole)"
+  },
+  {
+    "id": 211,
+    "question": "Nguyên nhân phổ biến nhất khiến triển khai hệ thống thất bại là:\n*",
+    "correct_answer": "Thiếu sự tham gia của người dùng và kháng cự thay đổi"
+  },
+  {
+    "id": 212,
+    "question": "Ngày “go-live” chỉ:\n*",
+    "correct_answer": "Ngày hệ thống mới vận hành"
+  },
+  {
+    "id": 213,
+    "question": "Hệ thống thông tin không chính thức bao gồm:\n*",
+    "correct_answer": "Trò chuyện văn phòng, mạng xã hội nội bộ, tin đồn"
+  },
+  {
+    "id": 214,
+    "question": "Sự phê duyệt cuối cùng trước khi đưa vào vận hành thường được cấp sau:\n*",
+    "correct_answer": "Kiểm thử chấp nhận người dùng (UAT)"
+  },
+  {
+    "id": 215,
+    "question": "Sự khác biệt chính giữa UI và UX là:\n*",
+    "correct_answer": "UI là giao diện hình ảnh; UX là toàn bộ trải nghiệm người dùng"
+  },
+  {
+    "id": 216,
+    "question": "Phương pháp MoSCoW dùng để:\n*",
+    "correct_answer": "Ưu tiên yêu cầu (Must – Should – Could – Won’t)"
+  },
+  {
+    "id": 217,
+    "question": "Quá trình đảm bảo yêu cầu phản ánh đúng nhu cầu bên liên quan được gọi là:\n*",
+    "correct_answer": "Xác nhận (Validation)"
+  },
+  {
+    "id": 218,
+    "question": "Mô hình FURPS+ phân loại yêu cầu thành:\n*",
+    "correct_answer": "Chức năng, Khả năng sử dụng, Độ tin cậy, Hiệu năng, Khả năng hỗ trợ + các yếu tố khác"
+  },
+  {
+    "id": 219,
+    "question": "Bảng điều khiển (dashboard) trong hệ thống thông tin dùng để:\n*",
+    "correct_answer": "Giám sát trực quan các chỉ số hiệu suất chính (KPI)"
+  },
+  {
+    "id": 220,
+    "question": "Việc triển khai thành công được đo bằng tất cả TRỪ:\n\n*",
+    "correct_answer": "Không viết dòng mã nào"
+  },
+  {
+    "id": 221,
+    "question": "Cách tốt nhất để xử lý yêu cầu mâu thuẫn từ các bên liên quan khác nhau là:\n*",
+    "correct_answer": "Chọn phiên bản của người có chức vụ cao nhất"
+  },
+  {
+    "id": 222,
+    "question": "Mô hình hóa quy trình chủ yếu tập trung vào:\n*",
+    "correct_answer": "Cách dữ liệu được biến đổi và di chuyển trong hệ thống"
+  },
+  {
+    "id": 223,
+    "question": "Khi dữ liệu được xử lý, tổ chức và có cấu trúc để trở nên hữu ích, nó trở thành:\n*",
+    "correct_answer": "Thông tin"
+  },
+  {
+    "id": 224,
+    "question": "Lập trình đôi (pair programming) là thực tiễn phổ biến trong:\n\n*",
+    "correct_answer": "Extreme Programming"
+  },
+  {
+    "id": 225,
+    "question": "Loại ghép nối tệ nhất là:\n*",
+    "correct_answer": "Ghép nối dữ liệu"
+  },
+  {
+    "id": 226,
+    "question": "Quy trình có đầu ra nhưng không có đầu vào được gọi là:\n*",
+    "correct_answer": "Lỗ đen"
+  },
+  {
+    "id": 227,
+    "question": "Hệ thống thông tin quản trị (MIS) chủ yếu phục vụ:\n*",
+    "correct_answer": "Quản lý trung cấp"
+  },
+  {
+    "id": 228,
+    "question": "Định luật Hick trong thiết kế giao diện nói rằng thời gian quyết định tăng theo:\n*",
+    "correct_answer": "Số lượng và độ phức tạp của lựa chọn"
+  },
+  {
+    "id": 229,
+    "question": "Biểu đồ “burndown chart” trong Agile thể hiện:\n\n*",
+    "correct_answer": "Công việc còn lại trong sprint"
+  },
+  {
+    "id": 230,
+    "question": "Đào tạo người dùng cuối thường được tiến hành trong:\n\n*",
+    "correct_answer": "Giai đoạn triển khai, ngay trước go-live"
+  },
+  {
+    "id": 231,
+    "question": "10 nguyên tắc khả dụng của Nielsen KHÔNG bao gồm\n*",
+    "correct_answer": "Tính nhất quán và tiêu chuẩn"
+  },
+  {
+    "id": 232,
+    "question": "Thiết kế đáp ứng (responsive design) đảm bảo giao diện:\n*",
+    "correct_answer": "Tự thích nghi với mọi kích thước màn hình và thiết bị"
+  },
+  {
+    "id": 233,
+    "question": "Vai trò loại bỏ trở ngại cho nhóm phát triển trong Scrum là:\n\n*",
+    "correct_answer": "Scrum Master"
+  },
+  {
+    "id": 234,
+    "question": "Loại liên kết tốt nhất là:\n*",
+    "correct_answer": "Liên kết chức năng (functional cohesion)"
+  },
+  {
+    "id": 235,
+    "question": "Giám đốc thông tin (CIO) thường chịu trách nhiệm:\n*",
+    "correct_answer": "Định hướng chiến lược CNTT phù hợp với chiến lược kinh doanh"
+  },
+  {
+    "id": 236,
+    "question": "Trong phân tích biến đổi, vùng trung tâm chứa các quy trình tuần tự được gọi là:\n*",
+    "correct_answer": "Trung tâm biến đổi (transform center)"
+  },
+  {
+    "id": 237,
+    "question": "“Hệ thống phải cho phép người dùng đăng nhập trong vòng 2 giây” là ví dụ của:\n*",
+    "correct_answer": "Quy tắc nghiệp vụ"
+  },
+  {
+    "id": 238,
+    "question": "“Cognitive walkthrough” là phương pháp đánh giá khả dụng:\n*",
+    "correct_answer": "Mô phỏng quá trình giải quyết vấn đề của người dùng từng bước"
+  },
+  {
+    "id": 239,
+    "question": "Tài liệu chính thức mô tả toàn bộ yêu cầu chức năng và phi chức năng được gọi là:\n*",
+    "correct_answer": "Tài liệu đặc tả yêu cầu phần mềm/hệ thống (SRS)"
+  },
+  {
+    "id": 240,
+    "question": "Hệ thống thông tin góp phần nâng cao hiệu quả tổ chức bằng cách cải thiện:\n*",
+    "correct_answer": "Hiệu quả, hiệu năng và đổi mới"
+  }
+]
