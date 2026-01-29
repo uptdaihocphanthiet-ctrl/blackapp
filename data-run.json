@@ -452,7 +452,7 @@
   {
     "id": 91,
     "question": "Quyết định cấp tác nghiệp thường là:\n*",
-    "correct_answer": "Không thể dự đoán và phi cấu trúc"
+    "correct_answer": "Ngắn hạn, có cấu trúc và lặp lại"
   },
   {
     "id": 92,
@@ -462,7 +462,7 @@
   {
     "id": 93,
     "question": "EDI (Electronic Data Interchange) là ví dụ điển hình của:\n*",
-    "correct_answer": "Công cụ năng suất cá nhân"
+    "correct_answer": "Hệ thống liên tổ chức"
   },
   {
     "id": 94,
@@ -487,7 +487,7 @@
   {
     "id": 98,
     "question": "Hệ thống nào cung cấp báo cáo định kỳ, có sẵn cho nhà quản trị?\n*",
-    "correct_answer": "TPS"
+    "correct_answer": "MIS"
   },
   {
     "id": 99,
